@@ -16,7 +16,7 @@ wget -P ~/.local/share/icons/easyclip https://raw.githubusercontent.com/dhsathiy
 echo "[Desktop Entry]
 Type=Application
 Name=EasyClip
-Icon=$(eval echo "~$USER")/.local/share/icons/easyclip/easyclip.png
+Icon=$(echo "$HOME")/.local/share/icons/easyclip/easyclip.png
 Exec=/usr/local/bin/easyclip
 Categories=Utility
 Terminal=False" > ~/.local/share/applications/dhsathiya-easyclip.desktop
