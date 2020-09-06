@@ -1,4 +1,4 @@
-fimport pyperclip
+import pyperclip
 import time
 import threading
 import os
@@ -43,7 +43,7 @@ def gui():
     # root.wm_attributes('-alpha', 0.9)
     # root.configure(bg='#293134')
 
-    img = PhotoImage(file='/home/devarshi/copyman/copyman.png')
+    img = PhotoImage(file='~/.local/share/icons/easyclip/easyclip.png')
     root.tk.call('wm', 'iconphoto', root._w, img)
 
     # T.config(font=("Courier", 10))
