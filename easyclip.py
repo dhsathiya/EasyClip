@@ -16,7 +16,7 @@ array_current_position = 0
 thread_kill = True
 
 # root for Tkinter
-root = Tk(className="CopyMan")
+root = Tk(className="EasyClip")
 # Text box to print copy_array value
 T = Text(root, height=7, width=32, borderwidth=0)
 
