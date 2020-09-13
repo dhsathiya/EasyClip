@@ -3,7 +3,7 @@
 <img src="https://github.com/dhsathiya/EasyClip/raw/master/images/easyclip.png" align="right"
      alt="EasyClip logo" width="120" height="120">
 
-[![License](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 ![Made With Python](https://img.shields.io/badge/Made%20With-Python-blue)
 ![Tested On Ubuntu 20.04](https://img.shields.io/badge/Tested%20On-Ubuntu%2020.04-orange)
 
